@@ -59,9 +59,6 @@ int main()
 	c.print_set();
 	d.print_set();
 	e.print_set();
-
-	
-
 	
     return 0;
 }
